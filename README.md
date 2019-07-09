@@ -5,6 +5,7 @@ A convenient script to switch visible Nvidia GPU.
 ```bash
 wget https://raw.githubusercontent.com/lanpa/usegpu/master/appendtobash && cat appendtobash>>~/.bashrc
 source ~/.bashrc
+
 ```
 
 # usage
